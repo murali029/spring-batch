@@ -58,7 +58,7 @@
 		<micrometer.version>1.10.0-SNAPSHOT</micrometer.version>
 
 		<!-- optional production dependencies -->
-		<jackson.version>2.14.0-rc2</jackson.version>
+		<jackson.version>2.14.0</jackson.version>
 		<spring-data-commons.version>3.0.0-SNAPSHOT</spring-data-commons.version>
 		<spring-data-jpa.version>3.0.0-SNAPSHOT</spring-data-jpa.version>
 		<spring-data-mongodb.version>4.0.0-SNAPSHOT</spring-data-mongodb.version>
@@ -73,7 +73,7 @@
 		<jakarta.jms-api.version>3.1.0</jakarta.jms-api.version>
 		<jakarta.validation-api.version>3.0.2</jakarta.validation-api.version>
 		<jakarta.persistence-api.version>3.1.0</jakarta.persistence-api.version>
-		<neo4j-ogm-core.version>3.2.37</neo4j-ogm-core.version>
+		<neo4j-ogm-core.version>4.0.0</neo4j-ogm-core.version>
 		<mongodb-driver-sync.version>4.7.2</mongodb-driver-sync.version>
 		<junit-jupiter.version>5.8.2</junit-jupiter.version>
 
