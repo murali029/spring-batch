@@ -58,7 +58,7 @@
 		<micrometer.version>1.10.0-SNAPSHOT</micrometer.version>
 
 		<!-- optional production dependencies -->
-		<jackson.version>2.14.0-rc2</jackson.version>
+		<jackson.version>2.15.0</jackson.version>
 		<spring-data-commons.version>3.0.0-SNAPSHOT</spring-data-commons.version>
 		<spring-data-jpa.version>3.0.0-SNAPSHOT</spring-data-jpa.version>
 		<spring-data-mongodb.version>4.0.0-SNAPSHOT</spring-data-mongodb.version>
@@ -94,7 +94,7 @@
 		<sqlite.version>3.39.3.0</sqlite.version>
 		<derby.version>10.16.1.1</derby.version>
 		<hana.version>2.13.9</hana.version>
-		<artemis.version>2.26.0</artemis.version>
+		<artemis.version>2.39.0</artemis.version>
 		<jaxb-core.version>4.0.1</jaxb-core.version>
 		<log4j.version>2.19.0</log4j.version>
 		<hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
